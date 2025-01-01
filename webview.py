@@ -22,6 +22,7 @@ def main(args):
 
    # QWebEngineView
    browser = QWebEngineView()
+   browser.setWindowTitle("Pyside Test")
    browser.load(QUrl(url))
    browser.show()
 
