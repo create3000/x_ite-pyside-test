@@ -1,6 +1,6 @@
 {
   "name": "sunrize",
   "scripts": {
-    "start": "python webview.py"
+    "start": "python3 webview.py"
   }
 }
