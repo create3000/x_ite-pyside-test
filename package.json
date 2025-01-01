@@ -1,0 +1,6 @@
+{
+  "name": "sunrize",
+  "scripts": {
+    "start": "python webview.py"
+  }
+}
