@@ -1,5 +1,5 @@
 {
-  "name": "sunrize",
+  "name": "x_ite-pyside-test",
   "scripts": {
     "start": "python3 webview.py"
   }
